@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C23B3390-E731-4AAB-AD7F-1C1297B9F3F1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TIRAMISYU</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76C6C841-EC73-4F52-BBDC-EB01B685D7B1</key>
+		<string>https://github.com/wendyleigh/TIRAMISYU-iPhone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TIRAMISYU.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76C6C841-EC73-4F52-BBDC-EB01B685D7B1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wendyleigh/TIRAMISYU-iPhone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76C6C841-EC73-4F52-BBDC-EB01B685D7B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76C6C841-EC73-4F52-BBDC-EB01B685D7B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TIRAMISYU-iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
